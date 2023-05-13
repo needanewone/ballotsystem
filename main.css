@@ -1,20 +1,20 @@
 #loader {
-	height: 40px;
+    height: 40px;
     display:none;
 }
 
 #loaderStartVote {
-	height: 40px;
+    height: 40px;
     display:none;
 }
 
 #loaderChoice{
-	height: 40px;
+    height: 40px;
     display:none;
 }
 
 #loaderNewVoter {
-	height: 40px;
+    height: 40px;
     display:none;
 }
 
