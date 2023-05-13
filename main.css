@@ -1,3 +1,7 @@
+element.style{
+    display: inline;
+}
+
 #loader {
     height: 40px;
     display:none;
